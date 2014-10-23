@@ -63,6 +63,7 @@ set shiftwidth=2
 set shiftround
 set expandtab
 
+set encoding=utf-8
 " Display extra whitespace
 set list listchars=tab:»·,trail:·,nbsp:·
 
